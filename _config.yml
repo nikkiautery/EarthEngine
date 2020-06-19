@@ -1,13 +1,3 @@
 theme: jekyll-theme-minimal
 title: Google Earth Engine with Nikki
 description: GEE Exploration of Remotely Sensed Satellite Imagery with GEE JavaScript API
-
-## View the Below Information & Explore the Code (JavaScript) in the GitHub Repo   
-
-Projects in Repo as of 16 June 2020:  
-  
--[Imagery Visualization](https://github.com/nikkiautery/EarthEngine/blob/master/Generic_Visualization.js)
--[Masking](https://github.com/nikkiautery/EarthEngine/blob/master/Masking.js)  
--[NDVI](https://github.com/nikkiautery/EarthEngine/blob/master/NDVI.js)  
--[EVI & Tasseled Cap](https://github.com/nikkiautery/EarthEngine/blob/master/EVI_and_TasseledCap.js)  
--[Binary Change Detection](https://github.com/nikkiautery/EarthEngine/blob/master/BinaryChangeDetection.js)  
