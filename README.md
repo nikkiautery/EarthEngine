@@ -12,7 +12,7 @@ Catalog: https://developers.google.com/earth-engine/datasets
 IDE: https://code.earthengine.google.com/
 Explorer: https://explorer.earthengine.google.com/
 
-*Requirements:*
+*Requirements:*  
 
-Google Earth Engine Access (Request Account)
+Google Earth Engine Access (Request Account)  
 Basic JavaScript or Python Knowledge
