@@ -17,4 +17,6 @@ Google Earth Engine Access (Request Account)
 Basic JavaScript or Python Knowledge
 
 [View My *Basic* Script Repo](https://code.earthengine.google.com/?accept_repo=users/rna41/ScriptSnippets)  
-[Script Repo Adapted From: Minerva Singh @ Udemy](https://www.udemy.com/share/101Z4GA0oTdF9VQn4=/)
+[Script Repo Adapted From: Minerva Singh @ Udemy](https://www.udemy.com/share/101Z4GA0oTdF9VQn4=/)  
+
+[*Projects Developed as Part of Pennsylvania State University GEOG 589: Emerging Trends in Remote Sensing*](https://www.e-education.psu.edu/geog589/node/508)
