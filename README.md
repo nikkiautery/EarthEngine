@@ -9,7 +9,7 @@ Exploration in Google Earth Engine
 
 Projects in Repo as of 16 June 2020:  
   
--[Imagery Visualization](https://github.com/nikkiautery/EarthEngine/blob/master/Generic_Visualization.js)
+-[Imagery Visualization](https://github.com/nikkiautery/EarthEngine/blob/master/Generic_Visualization.js)  
 -[Masking](https://github.com/nikkiautery/EarthEngine/blob/master/Masking.js)  
 -[NDVI](https://github.com/nikkiautery/EarthEngine/blob/master/NDVI.js)  
 -[EVI & Tasseled Cap](https://github.com/nikkiautery/EarthEngine/blob/master/EVI_and_TasseledCap.js)  
