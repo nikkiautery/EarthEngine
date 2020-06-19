@@ -16,5 +16,5 @@ boundary definition.
 Google Earth Engine Access (Request Account)  
 Basic JavaScript or Python Knowledge
 
-[View My *Basic* Script Repo](https://code.earthengine.google.com/?accept_repo=users/rna41/ScriptSnippets)
+[View My *Basic* Script Repo](https://code.earthengine.google.com/?accept_repo=users/rna41/ScriptSnippets)  
 [Script Repo Adapted From: Minerva Singh @ Udemy](https://www.udemy.com/share/101Z4GA0oTdF9VQn4=/)
