@@ -2,9 +2,7 @@
 Google Earth Engine in JavaScript for Remote Sensing
 Exploration in Google Earth Engine
 
-## Various Elements of Imagery Processing 
-## Using Geospatial Big Data via 
-## Google Earth Engine JavaScript API
+**Various Elements of Imagery Processing Using Geospatial Big Data via Google Earth Engine JavaScript API**  
 
 All imagery imported via Google Earth Engine API with the exception of custom-imported vector or shapefiles (user produced) for AOI 
 boundary definition.
