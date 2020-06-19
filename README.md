@@ -4,6 +4,18 @@ Exploration in Google Earth Engine
 
 **Various Elements of Imagery Processing Using Geospatial Big Data via Google Earth Engine JavaScript API**  
 
+
+## View the Below Information & Explore the Code (JavaScript) in the GitHub Repo   
+
+Projects in Repo as of 16 June 2020:  
+  
+-[Imagery Visualization](https://github.com/nikkiautery/EarthEngine/blob/master/Generic_Visualization.js)
+-[Masking](https://github.com/nikkiautery/EarthEngine/blob/master/Masking.js)  
+-[NDVI](https://github.com/nikkiautery/EarthEngine/blob/master/NDVI.js)  
+-[EVI & Tasseled Cap](https://github.com/nikkiautery/EarthEngine/blob/master/EVI_and_TasseledCap.js)  
+-[Binary Change Detection](https://github.com/nikkiautery/EarthEngine/blob/master/BinaryChangeDetection.js)  
+
+
 All imagery imported via Google Earth Engine API with the exception of custom-imported vector or shapefiles (user produced) for AOI 
 boundary definition.
 
