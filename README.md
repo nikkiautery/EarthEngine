@@ -1,4 +1,4 @@
-# EarthEngine
+# Earth Engine
 Google Earth Engine in JavaScript for Remote Sensing
 Exploration in Google Earth Engine
 
