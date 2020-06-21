@@ -14,6 +14,7 @@ Projects in Repo as of 16 June 2020:
 -[NDVI](https://github.com/nikkiautery/EarthEngine/blob/master/NDVI.js)  
 -[EVI & Tasseled Cap](https://github.com/nikkiautery/EarthEngine/blob/master/EVI_and_TasseledCap.js)  
 -[Binary Change Detection](https://github.com/nikkiautery/EarthEngine/blob/master/BinaryChangeDetection.js)  
+-[Spectral Change Vector Analysis & Change Magnitude Classification](https://github.com/nikkiautery/EarthEngine/blob/master/SpectralChangeVectorAnalysis.js)  
 
 
 All imagery imported via Google Earth Engine API with the exception of custom-imported vector or shapefiles (user produced) for AOI 
